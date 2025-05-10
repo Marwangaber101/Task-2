@@ -1,0 +1,60 @@
+body {background-color: hsl(233, 47%, 7%)}
+     
+
+.Container {background-color:  hsl(244, 38%, 16%);
+
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    height: 450px;
+    width: 450px;
+    margin-top: 0px;
+    position: relative;
+    left: 200px;
+    top: 200px;
+
+h1 {color: white;
+    height: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+   width: 350px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-right: 50px; }
+
+p {margin-left: 0px;
+    padding-left: 50px;
+    margin-right: 0px;
+    padding-right: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100px;
+    text-align: center;
+    color:  hsla(0, 0%, 100%, 0.75);
+}    
+}
+
+.attribution {
+    left: 500px;
+    bottom: 250px;
+    position: relative;
+    font-size: 11px;
+    text-align: center;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 900px;
+    height: 910px;
+    left: 470px;
+img {margin-left: 0px;
+    margin-bottom: 0px;
+height: 450px;}
+}
+.head {
+    color:  hsl(277, 64%, 61%);
+}   
+
+
+
+
